@@ -2,7 +2,7 @@
 
 Resolucion de ejercicios del capitulo 13 y 14 del libro de Principios de circuitos electricos de Floyd
 
-**Capitulos**: Tarea capitulo 11 y 12
+**Capitulos**: Tarea capitulo 13 y 14
 
 **NRC**: 7322
 
@@ -10,11 +10,12 @@ Resolucion de ejercicios del capitulo 13 y 14 del libro de Principios de circuit
 
 **Objetivos:** 
 
-- Saber resolver problemas tanto del capitulo 11 como del capitulo 12.
+- Saber resolver problemas tanto del capitulo 13 como del capitulo 14.
 
-- Comprender como es el comportamiento de las ondas en un circuito electrico, sabiendo que las ondas estan en funcion del tiempo.
+- Comprender como es la resolucion y el comportamiento que tiene los inductores en circuitos electricos.
 
 - Resolver ejercicios con relacion a los capacitores, en la cual existen en corriende directo como tambien en corriente alterna.
 
 **Marco teorico:** 
 
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/resumen1.png)
