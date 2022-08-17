@@ -60,7 +60,7 @@ Resolucion de ejercicios del capitulo 13 y 14 del libro de Principios de circuit
  
  **Conclusiones:**
  
- a) Saber el comportamiento de la ondas senoidales puede ayudar a tener una nocion grafica como tambien fisica de como es el comportamiento del circuito analizado.
+ a) Saber analizar lo que son conductores en serie y paralelo para que a la hora de resolver los ejercicios no haya error de calculo.
  
  b) En la resolucion del capitulo 12 exisate nuevos componentes los cuales son los capacitos el cual existen fijos como tambien variables en funcion del tiempo, resolver estos ejercicios ayuda a tener un mejor entendimiento de lo que es un capacitor y como resolverlos dependiendo de cada circuito.
  
